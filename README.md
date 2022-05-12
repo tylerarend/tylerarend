@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tylerarend
 - 👀 I’m interested in coding, video games, and art.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript, Node, and React
 - 💞️ I’m looking to collaborate on Front End Web Development projects
 - 📫 How to reach me TylerArend02@gmail.com
 
