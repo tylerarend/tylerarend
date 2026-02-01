@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler Arend</h1>
 <h3 align="center">An IT Support and Software Developer from Cincinnati, Ohio</h3>
 
-- 🔭 I’m currently working on **TransMedical**
+- 🔭 I’m currently working on **CompTIA A+ and Google IT Support certifications**
 
 - 🌱 I’m currently learning **Computer Hardware, Software, and Networking**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@tylerarend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@tylerarend" height="30" width="40" /></a>
-<a href="https://twitter.com/tylerarend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tylerarend" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/tyler-arend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tyler-arend" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18784906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18784906" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tylerarend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tylerarend" height="30" width="40" /></a>
