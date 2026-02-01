@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tyler Arend</h1>
-<h3 align="center">A passionate Software Developer from Cincinnati, Ohio</h3>
+<h3 align="center">An IT Support and Software Developer from Cincinnati, Ohio</h3>
 
 - 🔭 I’m currently working on **TransMedical**
 
-- 🌱 I’m currently learning **JavaScript, Node, and React**
+- 🌱 I’m currently learning **Computer Hardware, Software, and Networking**
 
 - 👨‍💻 All of my projects are available at [https://tylerarend.netlify.app/](https://tylerarend.netlify.app/)
 
