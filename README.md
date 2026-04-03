@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tyler Arend</h1>
 <h3 align="center">An IT Support and Software Developer from Cincinnati, Ohio</h3>
 
-- 🔭 I’m currently working on **CompTIA A+ and Google IT Support certifications**
+- 🔭 I’m currently working on **CompTIA Net+ certification**
 
-- 🌱 I’m currently learning **Computer Hardware, Software, and Networking**
+- 🌱 I’m currently learning **Networking**
 
 - 👨‍💻 All of my projects are available at [https://tylerarend.netlify.app/](https://tylerarend.netlify.app/)
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, Computer Hardware, Computer Software, Networking, and Cybersecurity**
 
 - 📫 How to reach me **TylerArend02@gmail.com**
 
